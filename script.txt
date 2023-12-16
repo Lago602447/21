@@ -120,7 +120,7 @@ if game:GetService("Players").LocalPlayer.PlayerGui.Main:FindFirstChild("ChooseT
         end
     end
 end
-
+[[
 local filename = "KievHub/BloxFruit.json"
 
 function Load()
@@ -161,6 +161,7 @@ end
 
 Load()
 Save()
+]]
 
 local LocalPlayer = game.Players.LocalPlayer
 local Plr = game.Players.LocalPlayer
